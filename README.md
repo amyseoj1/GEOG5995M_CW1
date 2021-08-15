@@ -8,9 +8,13 @@ The current Agent Based Model (ABM) was created for the coursework 1 of GEOG5995
 The repository contains 4 files. agentframework.py must be ran prior to animatedmodel.py file. in.txt must be placed in the same directory. environmentout.csv file is added as an example to show how this model writes out a file. 
 
 agentframework.py | Contains the agent class
+---------------------------------------------------
 animatedmodel.py | Contains the final working model
-in.txt |
-environmentout.csv |
+---------------------------------------------------
+in.txt | agents' environment dataset
+---------------------------------------------------
+environmentout.csv | writes out the environment as a separate file
+------------------------------------------------------------------
 
 
 
